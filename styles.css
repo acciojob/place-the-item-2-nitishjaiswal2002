@@ -5,6 +5,7 @@
 	flex-direction:row;
 	align-item:center;
 	font-size:50px;
+	justify-content:center;
 }
 
 .item1{
